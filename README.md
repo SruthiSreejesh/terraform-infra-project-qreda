@@ -1,6 +1,6 @@
 # AWS Infrastructure Deployment with Terraform
 
-###### This repository contains Terraform configurations to provision a scalable and secure AWS infrastructure. The setup includes VPCs, subnets, internet and NAT gateways, security groups, EC2 instances, load balancers, auto-scaling groups, and Route 53 DNS records.
+###### This repository contains Terraform configurations to provision a scalable and secure AWS infrastructure. The setup includes VPCs, public subnets, private subnets, Internet Gateway and NAT gateways, security groups, Bastion Insatnce (Jump box),  EC2 instances, load balancers, auto-scaling groups, and Route 53 DNS records.
 
 ## Overview
 
